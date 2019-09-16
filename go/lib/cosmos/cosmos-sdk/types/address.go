@@ -15,7 +15,7 @@ import (
 
 const (
 	AddrLen = 20
-	Bech32MainPrefix = "ouroboros"
+	Bech32MainPrefix = "ouro"
 	PrefixValidator = "val"
 	PrefixConsensus = "cons"
 	PrefixPublic = "pub"
